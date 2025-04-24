@@ -1,7 +1,16 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I'm @Ayush056github<br>I'm interested in Graphic Design And Web Development<br><br>
+👋 Hi, I'm Ayush Mathur!
+
+🎓 I'm a 2nd-year Bachelor of Technology student specializing in Information Technology at Poornima College of Engineering, Jaipur.
+
+🖊I have a strong passion for technology and a constant drive to learn and explore new aspects of IT. Whether it's coding, software development, or deep diving into data, I find it all truly exciting.
+
+📗I am actively enhancing my knowledge and skills by engaging in various projects and collaborative efforts.
+
+✨I look forward to connecting with other developers and technology enthusiasts!
+
 
 
 ## 🌐 Socials:
