@@ -3,7 +3,7 @@
 # 💫 About Me:
 👋 Hi, I'm Ayush Mathur!
 
-🎓 I'm a 2nd-year Bachelor of Technology student specializing in Information Technology at Poornima College of Engineering, Jaipur.
+🎓 I'm a 3rd-year Bachelor of Technology student specializing in Information Technology at Poornima College of Engineering, Jaipur.
 
 🖊I have a strong passion for technology and a constant drive to learn and explore new aspects of IT. Whether it's coding, software development, or deep diving into data, I find it all truly exciting.
 
